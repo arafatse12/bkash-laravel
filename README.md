@@ -9,10 +9,3 @@
 <li>Run <pre>php artisan key:generate</pre> </li>
 
 </ul>
-
-
-Video demonstrating the example https://www.youtube.com/watch?v=WOsXayVmnoc
-
-## Reference Post
-<a href="http://justlaravel.com/paypal-payment-gateway-integration-laravel/">http://justlaravel.com/paypal-payment-gateway-integration-laravel/
-</a>
